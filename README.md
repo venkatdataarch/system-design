@@ -10,7 +10,7 @@ practical knowledge to enhance your system design skills.
   - 
 ## What is system design?
 
-Before we start this course, let's talk about what even is system design.
+Before we start this, let's talk about what even is system design.
 
 System design is the process of defining the architecture, interfaces, and data
 for a system that satisfies specific requirements. System design meets the needs
